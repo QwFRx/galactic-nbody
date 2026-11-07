@@ -61,7 +61,7 @@ pygame, pillow and matplotlib.
 ## Installation
 
 ```bash
-git clone <your-repo-url> galactic-nbody
+git clone https://github.com/QwFRx/galactic-nbody.git galactic-nbody
 cd galactic-nbody
 python -m venv .venv
 source .venv/bin/activate
